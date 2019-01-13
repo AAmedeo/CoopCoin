@@ -1,0 +1,10 @@
+yarn install --no-bin-links
+ng serve --port 8080 --host 0.0.0.0 --watch 
+
+
+contract 
+0x52aD7F2dFB059bbdC6231e092bEE8Aab8a5ab09a  
+
+account:
+0x89FFEd1c5df8bFFcDf76D588E56518385ef61e80
+0x73cA5CebE690c8505F4f41cd6495e590b4995ac4
